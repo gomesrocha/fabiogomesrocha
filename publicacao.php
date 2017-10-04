@@ -5,24 +5,24 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="Site pessoal Prof. Fabio Gomes Rocha">
     <title>...:::Fabio Gomes Rocha:::...</title>
-    
+
     <link rel="stylesheet" href="https://unpkg.com/purecss@1.0.0/build/pure-min.css" integrity="sha384-" crossorigin="anonymous">
-    
+
     <!--[if lte IE 8]>
-        <link rel="stylesheet" href="https://unpkg.com/purecss@1.0.0/build/grids-responsive-old-ie-min.css">
+    <link rel="stylesheet" href="https://unpkg.com/purecss@1.0.0/build/grids-responsive-old-ie-min.css">
     <![endif]-->
     <!--[if gt IE 8]><!-->
-        <link rel="stylesheet" href="https://unpkg.com/purecss@1.0.0/build/grids-responsive-min.css">
+    <link rel="stylesheet" href="https://unpkg.com/purecss@1.0.0/build/grids-responsive-min.css">
     <!--<![endif]-->
-    
+
     <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css">
-    
-        <!--[if lte IE 8]>
-            <link rel="stylesheet" href="css/layouts/marketing-old-ie.css">
-        <![endif]-->
-        <!--[if gt IE 8]><!-->
-            <link rel="stylesheet" href="css/layouts/marketing.css">
-        <!--<![endif]-->
+
+    <!--[if lte IE 8]>
+    <link rel="stylesheet" href="css/layouts/marketing-old-ie.css">
+    <![endif]-->
+    <!--[if gt IE 8]><!-->
+    <link rel="stylesheet" href="css/layouts/marketing.css">
+    <!--<![endif]-->
 </head>
 <body>
 
@@ -42,67 +42,31 @@
     </div>
 </div>
 
-<div class="splash-container">
-    <div class="splash">
-        <h1 class="splash-head">Aspectos práticos da bibliometria</h1>
-        <p class="splash-subhead">
-            Oficina sobre o que é bibliometria e as ferramentas de busca sistemática
-        </p>
-        <p>
-            <a href="https://www.doity.com.br/aspectos-praticos-da-bibliometria-e-ferramentas-de-difusao-cientifica" target="_blank" class="pure-button pure-button-primary">Saiba mais</a>
-        </p>
-    </div>
-</div>
 
-<div class="content-wrapper">
+
+<div class="content">
     <div class="content">
         <h2 class="content-head is-center">Canais</h2>
 
         <div class="pure-g">
-            <div class="l-box pure-u-1 pure-u-md-1-2 pure-u-lg-1-4">
+            <div class="l-box pure-u-1">
 
                 <h3 class="content-subhead">
-                    <i class="fa fa-rocket"></i>
-                    Youtube
+                    Publicações
                 </h3>
-                <p>
-                    Canal com diversos vídeos sobre tecnologia.<br />
-                    <a href="https://www.youtube.com/user/gomesrocha" target="_blank" class="pure-button pure-button-primary">Saiba mais</a>
-                    
+                <>
+                    <a href="http://cbsoft.org/articles/0000/0526/FEES.pdf#page=23" target="_blank">- A METODOLOGIA SCRUM COMO MOBILIZADORA DA PRÁTICA PEDAGÓGICA: UM OLHAR SOBRE A ENGENHARIA DE SOFTWARE</a><br />
+                    <a href="http://www.contecsi.fea.usp.br/envio/index.php/contecsi/13CONTECSI/paper/view/3758" target="_blank">- GAME THEORY-BASED MODEL FOR INVESTMENT DECISION IN STRATEGIC PLANNING ICT</a> <br />
+                    <a href="https://periodicos.set.edu.br/index.php/exatas/article/view/2258" target="_blank">- SEGURANÇA EM REDES DE COMPUTADORES UMA VISÃO SOBRE O PROCESSO DE PENTEST</a><br />
+                    <a href="https://periodicos.set.edu.br/index.php/exatas/article/view/1897" target="_blank">- PROCESSO DE DETECÇÃO FACIAL UTILIZANDO VIOLA; JONES</a> <br />
+                    <a href="https://s3.amazonaws.com/academia.edu.documents/37799398/fees_v1_p.pdf?AWSAccessKeyId=AKIAIWOWYYGZ2Y53UL3A&Expires=1506968851&Signature=GxCgDoBiLxkwJSKIzwbF4NbySnY%3D&response-content-disposition=inline%3B%20filename%3DO_uso_de_questionarios_para_elicitacao_d.pdf#page=62" target="_blank">- O USO DE DOJO NA PRÁTICA PEDAGÓGICA DO ENSINO DE LÓGICA DE PROGRAMAÇÃO </a> <br />
+                    <a href="https://seer.ufs.br/index.php/edapeci/article/view/6770" target="_blank">- O SCRUM COMO FORMA DE GERENCIAR ALUNOS EM PROJETOS DE DESENVOLVIMENTO TECNOLÓGICO E INICIAÇÃO CIENTÍFICA: UM ESTUDO DE CASO REALIZADO NA UNIT/SE</a><br />
+                    <a href="http://www.contecsi.fea.usp.br/envio/index.php/contecsi/14CONTECSI/paper/viewPaper/4433" target="_blank">- UM SURVEY SOBRE METODOLOGIAS ÁGEIS E SUA RELAÇÃO COM AS TÉCNICAS DE ELICITAÇÃO DE REQUISITOS</a> <br />
+                    <a href="https://www.researchgate.net/profile/Fabio_Rocha7/publication/317290444_STRATEGIC_PLANNING_METHODOLOGY_FOR_INFORMATION_SECURITY_a_PESEG_10/links/59307662a6fdcc89e7844d82/STRATEGIC-PLANNING-METHODOLOGY-FOR-INFORMATION-SECURITY-a-PESEG-10.pdf" target="_blank">- STRATEGIC PLANNING METHODOLOGY FOR INFORMATION SECURITY – PESEG 1.0</a> <br />
+                    PDMSYS: A TOOL TO SUPPORT AUTOMATED DECISION MAKING
                 </p>
             </div>
-            <div class="l-box pure-u-1 pure-u-md-1-2 pure-u-lg-1-4">
-                <h3 class="content-subhead">
-                    <i class="fa fa-mobile"></i>
-                    Academia.EDU
-                </h3>
-                <p>
-                    Perfil publico do Academia.Edu com diversos artigos e trabalhos.
-                    <a href="https://unit.academia.edu/FabioGomesRocha" target="_blank" class="pure-button pure-button-primary">Saiba mais</a>
-                </p>
-            </div>
-            <div class="l-box pure-u-1 pure-u-md-1-2 pure-u-lg-1-4">
-                <h3 class="content-subhead">
-                    <i class="fa fa-th-large"></i>
-                    ResearchGate
-                </h3>
-                <p>
-                     Perfil publico do ResearchGate com diversos artigos e trabalhos.
-                    <a href="https://www.researchgate.net/profile/Fabio_Rocha7" target="_blank" class="pure-button pure-button-primary">Saiba mais</a>
-                    
-                </p>
-            </div>
-            <div class="l-box pure-u-1 pure-u-md-1-2 pure-u-lg-1-4">
-                <h3 class="content-subhead">
-                    <i class="fa fa-check-square-o"></i>
-                    Github
-                </h3>
-                <p>
-                Perfil publico do Github com diversos projetos e softwares open-sources.
-                    <a href="http://www.github.com/gomesrocha" target="_blank" class="pure-button pure-button-primary">Saiba mais</a>
-                    
-                </p>
-            </div>
+
         </div>
     </div>
 
@@ -161,7 +125,7 @@
     </div>
 
     <div class="footer l-box is-center">
-Prof. Fabio Gomes Rocha    </div>
+        Prof. Fabio Gomes Rocha    </div>
 
 </div>
 
