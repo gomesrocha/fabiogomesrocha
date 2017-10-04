@@ -32,8 +32,8 @@
 
         <ul class="pure-menu-list">
             <li class="pure-menu-item pure-menu-selected"><a href="index.html" class="pure-menu-link">Home</a></li>
-            <li class="pure-menu-item pure-menu-selected"><a href="materiais.html" class="pure-menu-link">Materiais de apoio</a></li>
-            <li class="pure-menu-item pure-menu-selected"><a href="publicacao.php" class="pure-menu-link">Publicações</a></li>
+            <li class="pure-menu-item"><a href="materiais.html" class="pure-menu-link">Materiais de apoio</a></li>
+            <li class="pure-menu-item"><a href="publicacao.php" class="pure-menu-link">Publicações</a></li>
             <li class="pure-menu-item"><a href="http://orcid.org/0000-0002-0512-5406" class="pure-menu-link" target="_blank">ORCID</a></li>
             <li class="pure-menu-item"><a href="http://lattes.cnpq.br/3161449561865597" target="_blank" class="pure-menu-link">Lattes</a></li>
             <li class="pure-menu-item"><a href="regras.html"  class="pure-menu-link">Regras de orientação</a></li>
@@ -63,7 +63,10 @@
                     <a href="https://seer.ufs.br/index.php/edapeci/article/view/6770" target="_blank">- O SCRUM COMO FORMA DE GERENCIAR ALUNOS EM PROJETOS DE DESENVOLVIMENTO TECNOLÓGICO E INICIAÇÃO CIENTÍFICA: UM ESTUDO DE CASO REALIZADO NA UNIT/SE</a><br />
                     <a href="http://www.contecsi.fea.usp.br/envio/index.php/contecsi/14CONTECSI/paper/viewPaper/4433" target="_blank">- UM SURVEY SOBRE METODOLOGIAS ÁGEIS E SUA RELAÇÃO COM AS TÉCNICAS DE ELICITAÇÃO DE REQUISITOS</a> <br />
                     <a href="https://www.researchgate.net/profile/Fabio_Rocha7/publication/317290444_STRATEGIC_PLANNING_METHODOLOGY_FOR_INFORMATION_SECURITY_a_PESEG_10/links/59307662a6fdcc89e7844d82/STRATEGIC-PLANNING-METHODOLOGY-FOR-INFORMATION-SECURITY-a-PESEG-10.pdf" target="_blank">- STRATEGIC PLANNING METHODOLOGY FOR INFORMATION SECURITY – PESEG 1.0</a> <br />
-                    PDMSYS: A TOOL TO SUPPORT AUTOMATED DECISION MAKING
+                    <a href="https://www.researchgate.net/profile/Fabio_Rocha7/publication/317290363_PDMSYS_A_TOOL_TO_SUPPORT_AUTOMATED_DECISION_MAKING/links/593076d7a6fdcc89e7844db4/PDMSYS-A-TOOL-TO-SUPPORT-AUTOMATED-DECISION-MAKING.pdf" target="_blank">-PDMSYS: A TOOL TO SUPPORT AUTOMATED DECISION MAKING </a><br />
+                    <a href="http://www.contecsi.fea.usp.br/envio/index.php/contecsi/14CONTECSI/paper/viewPaper/4435" target="_blank">-INTEGRAÇÃO CONTÍNUA E CONTROLE DE VERSÃO: UMA REVISÃO SISTEMÁTICA</a><br />
+                    <a href="https://bibliotecadigital.ipb.pt/handle/10198/14264" target="_blank"> SCRUM AS A PLATFORM TO MANAGE STUDENTS IN PROJECTS OF TECHNOLOGICAL DEVELOPMENT AND SCIENTIFIC INITIATION: A STUDY CASE REALIZED AT UNIT/SE</a> <br />
+                    <a href="http://www.ic.ufal.br/evento/cbsoft2014/anais/fees_v1_p.pdf" target="_blank">O USO DO DOJO NA PRÁTICA PEDAGÓGICA DO ENSINO </a> <br />
                 </p>
             </div>
 
