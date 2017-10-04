@@ -54,7 +54,7 @@
                 <h3 class="content-subhead">
                     Publicações
                 </h3>
-                <>
+
                     <a href="http://cbsoft.org/articles/0000/0526/FEES.pdf#page=23" target="_blank">- A METODOLOGIA SCRUM COMO MOBILIZADORA DA PRÁTICA PEDAGÓGICA: UM OLHAR SOBRE A ENGENHARIA DE SOFTWARE</a><br />
                     <a href="http://www.contecsi.fea.usp.br/envio/index.php/contecsi/13CONTECSI/paper/view/3758" target="_blank">- GAME THEORY-BASED MODEL FOR INVESTMENT DECISION IN STRATEGIC PLANNING ICT</a> <br />
                     <a href="https://periodicos.set.edu.br/index.php/exatas/article/view/2258" target="_blank">- SEGURANÇA EM REDES DE COMPUTADORES UMA VISÃO SOBRE O PROCESSO DE PENTEST</a><br />
