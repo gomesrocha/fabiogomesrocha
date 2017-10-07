@@ -65,8 +65,8 @@
                     <a href="https://www.researchgate.net/profile/Fabio_Rocha7/publication/317290444_STRATEGIC_PLANNING_METHODOLOGY_FOR_INFORMATION_SECURITY_a_PESEG_10/links/59307662a6fdcc89e7844d82/STRATEGIC-PLANNING-METHODOLOGY-FOR-INFORMATION-SECURITY-a-PESEG-10.pdf" target="_blank">- STRATEGIC PLANNING METHODOLOGY FOR INFORMATION SECURITY – PESEG 1.0</a> <br />
                     <a href="https://www.researchgate.net/profile/Fabio_Rocha7/publication/317290363_PDMSYS_A_TOOL_TO_SUPPORT_AUTOMATED_DECISION_MAKING/links/593076d7a6fdcc89e7844db4/PDMSYS-A-TOOL-TO-SUPPORT-AUTOMATED-DECISION-MAKING.pdf" target="_blank">-PDMSYS: A TOOL TO SUPPORT AUTOMATED DECISION MAKING </a><br />
                     <a href="http://www.contecsi.fea.usp.br/envio/index.php/contecsi/14CONTECSI/paper/viewPaper/4435" target="_blank">-INTEGRAÇÃO CONTÍNUA E CONTROLE DE VERSÃO: UMA REVISÃO SISTEMÁTICA</a><br />
-                    <a href="https://bibliotecadigital.ipb.pt/handle/10198/14264" target="_blank"> SCRUM AS A PLATFORM TO MANAGE STUDENTS IN PROJECTS OF TECHNOLOGICAL DEVELOPMENT AND SCIENTIFIC INITIATION: A STUDY CASE REALIZED AT UNIT/SE</a> <br />
-                    <a href="http://www.ic.ufal.br/evento/cbsoft2014/anais/fees_v1_p.pdf" target="_blank">O USO DO DOJO NA PRÁTICA PEDAGÓGICA DO ENSINO </a> <br />
+                    <a href="https://bibliotecadigital.ipb.pt/handle/10198/14264" target="_blank">- SCRUM AS A PLATFORM TO MANAGE STUDENTS IN PROJECTS OF TECHNOLOGICAL DEVELOPMENT AND SCIENTIFIC INITIATION: A STUDY CASE REALIZED AT UNIT/SE</a> <br />
+                    <a href="http://www.ic.ufal.br/evento/cbsoft2014/anais/fees_v1_p.pdf" target="_blank">- O USO DO DOJO NA PRÁTICA PEDAGÓGICA DO ENSINO </a> <br />
                 </p>
             </div>
 
