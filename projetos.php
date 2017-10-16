@@ -78,7 +78,51 @@
                 <p>
                     O Projeto MobiSecurity visa construir ferramental para teste de segurança em app's mobile
                     <br />
+                    Projetos do edital 1/2017
+                    <br />
+                    Um processo para analise de segurança de aplicativos mobile
                 </p>
+                <h3 class="content-subhead">
+                    Biblioteca Virtual da Educação
+                </h3>
+                <p>
+                    O Projeto Biblioteca Virtual da Educação visa construir ferramental para pesquisadores da educação, sendo integrada pelos seguintes projetos de IC:
+                    <br />
+                    Projetos do edital 1/2017
+                    <br />
+                    BHExtract – Extração de dados de sites de revistas cientificas nacionais sobre história da educação (Probic)
+                    <br />
+                    Analise de dados de revistas científicas nacionais sobre história da educação (Provic)
+                    <br />
+                    BHImageA: Processamento de imagens históricas
+                </p>
+                <h3 class="content-subhead">
+                    PESEG
+                </h3>
+                <p>
+                    O Projeto PESEG visa desenvolver um modelo de planejamento estratégico de segurança da informação.
+                    <br />
+                    Projetos do edital 1/2017
+                    <br />
+                    Um modelo de planejamento estratégico de segurança
+                    <br />
+                    Aluno:
+                    <br />
+                    Luiz Felipe Cirqueira dos Santos
+                </p>
+                <h3 class="content-subhead">
+                    MIDAS
+                </h3>
+                <p>
+                    O Projeto MIDAS visa desenvolver um modelo integrado de desenvolvimento ágil de software.
+                    <br />
+                    Projetos do edital 1/2017
+                    <br />
+                    Análise de integração de metodologias ágeis<br />
+                    Um método unificado para desenvolvimento ágil de software
+                    <br />
+                </p>
+
             </div>
 
         </div>
