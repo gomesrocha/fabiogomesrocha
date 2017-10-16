@@ -31,7 +31,7 @@
         <a class="pure-menu-heading" href="">Fabio Gomes Rocha</a>
 
         <ul class="pure-menu-list">
-            <li class="pure-menu-item pure-menu-selected"><a href="index.html" class="pure-menu-link">Home</a></li>
+            <li class="pure-menu-item"><a href="index.html" class="pure-menu-link">Home</a></li>
             <li class="pure-menu-item"><a href="materiais.html" class="pure-menu-link">Materiais de apoio</a></li>
             <li class="pure-menu-item"><a href="publicacao.php" class="pure-menu-link">Publicações</a></li>
             <li class="pure-menu-item"><a href="http://orcid.org/0000-0002-0512-5406" class="pure-menu-link" target="_blank">ORCID</a></li>
