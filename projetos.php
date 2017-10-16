@@ -31,7 +31,7 @@
         <a class="pure-menu-heading" href="">Fabio Gomes Rocha</a>
 
         <ul class="pure-menu-list">
-            <li class="pure-menu-item"><a href="index.html" class="pure-menu-link">Home</a></li>
+            <li class="pure-menu-item pure-menu-selected"><a href="index.html" class="pure-menu-link">Home</a></li>
             <li class="pure-menu-item"><a href="materiais.html" class="pure-menu-link">Materiais de apoio</a></li>
             <li class="pure-menu-item"><a href="publicacao.php" class="pure-menu-link">Publicações</a></li>
             <li class="pure-menu-item"><a href="http://orcid.org/0000-0002-0512-5406" class="pure-menu-link" target="_blank">ORCID</a></li>
@@ -47,18 +47,37 @@
 
 <div class="content">
     <div class="content">
-        <h2 class="content-head is-center">Canais</h2>
+        <h2 class="content-head is-center">Projetos</h2>
 
         <div class="pure-g">
             <div class="l-box pure-u-1">
-
                 <h3 class="content-subhead">
-                    Regras de orientação
+                    Hemeroteca Digital
                 </h3>
                 <p>
-                    <a href="materiais/oficina_aspectos.pptx" target="_blank">Minicurso Aspectos práticos da bibliometria e ferramentas de Difusão científica - 05/10/2017 - PPED/UNIT</a> <br />
-                    <a href="materiais/protocolo_revisão.docx" target="_blank">Modelo de protocolo de revisão sistemática Baseado no trabalho de Felizardo. et al.  Revisão sistemática da literatura em engenharia de software. Rio de Janeiro: Elsevier, 2017.</a><br />
-                    <a href="materiais/PHP.pdf" target="_blank">Palestra PHPSergipe: TDD e PHP: Em busca de qualidade - 2016.</a>
+                    O Projeto Hemeroteca Digital visa construir um ambiente de pesquisa inteligente bem como digitalizar o acervo de mais de 100 anos do diário oficial de Sergipe.
+                    <br />
+                    Alunos envolvidos:<br />
+                    Victor Brito Villar<br />
+                    Thiciane Sueli Couto <br />
+                    Efraim Santana Leite Filho
+                </p>
+                <h3 class="content-subhead">
+                    BrasilSincero
+                </h3>
+                <p>
+                    O Projeto BrasilSincero visa construir um portal de dados públicos, permitindo o facil acesso e disponibilizando uma API para que possa ser consumida por outros pesquisadores
+                    <br />
+                    Alunos envolvidos:<br />
+                    Marcus Viniciusr<br />
+                    Erick Antunes
+                </p>
+                <h3 class="content-subhead">
+                    MobiSec
+                </h3>
+                <p>
+                    O Projeto MobiSecurity visa construir ferramental para teste de segurança em app's mobile
+                    <br />
                 </p>
             </div>
 
@@ -85,12 +104,9 @@
 
         <div class="pure-g">
             <div class="l-box-lrg pure-u-1 pure-u-md-2-5">
-                <h4>Contact Us</h4>
+                <h4>Contacte-me</h4>
                 <p>
-                    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-                    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-                    quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-                    consequat.
+                    Precisa falar comigo?
                 </p>
 
                 <h4>More Information</h4>
