@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ef56f23c-1477-4292-9c7b-7b15896d0163" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/materiais/PHP.pdf" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/regras.html" afterPath="$PROJECT_DIR$/regras.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -63,8 +61,8 @@
       <file leaf-file-name="regras.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/regras.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
-              <caret line="63" column="36" lean-forward="true" selection-start-line="63" selection-start-column="36" selection-end-line="63" selection-end-column="36" />
+            <state relative-caret-position="226">
+              <caret line="48" column="86" lean-forward="false" selection-start-line="48" selection-start-column="86" selection-end-line="48" selection-end-column="86" />
               <folding />
             </state>
           </provider>
@@ -286,7 +284,7 @@
       <workItem from="1506965478526" duration="1120000" />
       <workItem from="1507126807946" duration="1106000" />
       <workItem from="1507555206095" duration="142000" />
-      <workItem from="1508181779181" duration="427000" />
+      <workItem from="1508181779181" duration="500000" />
     </task>
     <task id="LOCAL-00001" summary="Atualização da página">
       <created>1506688407150</created>
@@ -330,7 +328,14 @@
       <option name="project" value="LOCAL" />
       <updated>1507127903625</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Atualização da página regras">
+      <created>1508182224520</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1508182224520</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -339,12 +344,12 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5643000" />
+    <option name="totallyTimeSpent" value="5716000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1366" height="741" extended-state="6" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24597365" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24597365" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -371,7 +376,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Atualização da página" />
-    <option name="LAST_COMMIT_MESSAGE" value="Atualização da página" />
+    <MESSAGE value="Atualização da página regras" />
+    <option name="LAST_COMMIT_MESSAGE" value="Atualização da página regras" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -655,8 +661,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/regras.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="63" column="36" lean-forward="true" selection-start-line="63" selection-start-column="36" selection-end-line="63" selection-end-column="36" />
+        <state relative-caret-position="226">
+          <caret line="48" column="86" lean-forward="false" selection-start-line="48" selection-start-column="86" selection-end-line="48" selection-end-column="86" />
           <folding />
         </state>
       </provider>
