@@ -52,6 +52,18 @@
         <div class="pure-g">
             <div class="l-box pure-u-1">
                 <h3 class="content-subhead">
+                    SER - Sistema de Engenharia de Requisitos
+                </h3>
+                <p>
+                    O Projeto SER visa criar um sistema de gestão de projetos, porém com maior foco na gestão de requisitos.
+                    <br />
+                    Alunos envolvidos:<br />
+                    Luis Antonio dos Santos Silva<br />
+                    Thiciane Sueli Couto<br />
+                    Disponível para download <a href="https://github.com/gomesrocha/ser">Github</a><br />
+                    Disponível para teste <a href="http://midasprocesses.com/ser/">SER</a>
+                </p>
+                <h3 class="content-subhead">
                     Hemeroteca Digital
                 </h3>
                 <p>
