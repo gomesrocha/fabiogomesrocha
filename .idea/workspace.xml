@@ -2,13 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ef56f23c-1477-4292-9c7b-7b15896d0163" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sobre.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/materiais.html" afterPath="$PROJECT_DIR$/materiais.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/projetos.php" afterPath="$PROJECT_DIR$/projetos.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/publicacao.php" afterPath="$PROJECT_DIR$/publicacao.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/regras.html" afterPath="$PROJECT_DIR$/regras.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -340,7 +334,7 @@
       <workItem from="1508791037523" duration="133000" />
       <workItem from="1509230831643" duration="673000" />
       <workItem from="1510884870265" duration="356000" />
-      <workItem from="1511717022150" duration="553000" />
+      <workItem from="1511717022150" duration="576000" />
     </task>
     <task id="LOCAL-00001" summary="Atualização da página">
       <created>1506688407150</created>
@@ -447,7 +441,14 @@
       <option name="project" value="LOCAL" />
       <updated>1510885146697</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="Inserção de nova pagina">
+      <created>1511717668079</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1511717668079</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -459,7 +460,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13649000" />
+    <option name="totallyTimeSpent" value="13672000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1366" height="741" extended-state="6" />
