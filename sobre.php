@@ -40,6 +40,7 @@
             <li class="pure-menu-item"><a href="projetos.php"  class="pure-menu-link">Projetos</a></li>
             <li class="pure-menu-item"><a href="sobre.php"  class="pure-menu-link">Sobre</a></li>
 
+
         </ul>
     </div>
 </div>
@@ -54,12 +55,16 @@
             <div class="l-box pure-u-1">
 
                 <h3 class="content-subhead">
-                    Regras de orientação
+                    Fabio Gomes Rocha
                 </h3>
-                <p>
-                    <a href="materiais/oficina_aspectos.pptx" target="_blank">Minicurso Aspectos práticos da bibliometria e ferramentas de Difusão científica - 05/10/2017 - PPED/UNIT</a> <br />
-                    <a href="materiais/protocolo_revisão.docx" target="_blank">Modelo de protocolo de revisão sistemática Baseado no trabalho de Felizardo. et al.  Revisão sistemática da literatura em engenharia de software. Rio de Janeiro: Elsevier, 2017.</a><br />
-                    <a href="materiais/PHP.pdf" target="_blank">Palestra PHPSergipe: TDD e PHP: Em busca de qualidade - 2016.</a>
+
+                    Professor de Computação na Universidade Tiradentes <br />
+                    CERTIFICAÇÕES:<br />
+                    Scrum Master e Scrum Professional pela Scrum alliance - Certificant ID: 000208024 <br />
+                    Information Security Foundation based on ISO IEC 27001 pela EXIN <br />
+                    <img src="img/iso27002.png" /> <img src="img/CSM.jpg" /> <img src="img/CSP.png" />
+
+
                 </p>
             </div>
 

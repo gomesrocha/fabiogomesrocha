@@ -38,6 +38,8 @@
             <li class="pure-menu-item"><a href="http://lattes.cnpq.br/3161449561865597" target="_blank" class="pure-menu-link">Lattes</a></li>
             <li class="pure-menu-item"><a href="regras.html"  class="pure-menu-link">Regras de orientação</a></li>
             <li class="pure-menu-item"><a href="projetos.php"  class="pure-menu-link">Projetos</a></li>
+            <li class="pure-menu-item"><a href="sobre.php"  class="pure-menu-link">Sobre</a></li>
+
 
         </ul>
     </div>
