@@ -57,7 +57,7 @@
                     Projeto Virtual Library History Education
                 </h3>
                     <p>
-                    O Projeto Biblioteca Virtual da Educação visa construir ferramental para pesquisadores da educação empregando o OCR ABBYY para extração de texto e o processamento de linguagem natural para extrair informação, sendo integrada pelos seguintes projetos de IC:
+                        O Projeto Biblioteca Virtual da Educação visa construir ferramental para pesquisadores da educação empregando o OCR ABBYY <a href=˜http://cloud.ocrsdk.com˜> Cloud.ocrsdk.com </a> para extração de texto e o processamento de linguagem natural para extrair informação, sendo integrada pelos seguintes projetos de IC:
                     <br />
                     Projetos do edital 1/2017
                     <br />
