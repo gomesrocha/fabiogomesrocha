@@ -57,11 +57,12 @@
                 <h3 class="content-subhead">
                     Fabio Gomes Rocha
                 </h3>
-
-                    Professor de Computação na Universidade Tiradentes <br />
+                    Meu nome é Fabio Gomes Rocha, sou Professor Adjunto 1 na Universidade Tiradentes e líder do Grupo de Pesquisa Interdisciplinar em Tecnologia da Informação e Comunicação. Atuando nos cursos de Ciências da Computação, Sistemas de Informação e Sistemas para Internet. Bacharel em Sistemas de Informação e Mestre em Ciências da Computação pela UFS, atualmente curso o Doutorado na Universidade Tiradentes.<br />
+                    Além da minha experiência no ensino e pesquisa, atuei como Analista de Sistemas, Programador e Gestor de TI em empresas de diversos portes.<br />
                     CERTIFICAÇÕES:<br />
                     Scrum Master e Scrum Professional pela Scrum alliance - Certificant ID: 000208024 <br />
                     Information Security Foundation based on ISO IEC 27001 pela EXIN <br />
+                    Certificado Google Educator Level 2 <br />
                     <img src="img/iso27002.png" /> <img src="img/CSM.jpg" /> <img src="img/CSP.png" />
 
 
