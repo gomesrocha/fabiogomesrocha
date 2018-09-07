@@ -57,7 +57,7 @@
                 <h3 class="content-subhead">
                     Fabio Gomes Rocha
                 </h3>
-                    Meu nome é Fabio Gomes Rocha, sou Professor Adjunto 1 na Universidade Tiradentes e líder do Grupo de Pesquisa Interdisciplinar em Tecnologia da Informação e Comunicação. Atuando nos cursos de Ciências da Computação, Sistemas de Informação e Sistemas para Internet. Membro da Comissão Especial de Sistemas de Informação da SBC <a href="http://www2.sbc.org.br/ce-si//membros.html"> CESI/SBC </a>. Bacharel em Sistemas de Informação e Mestre em Ciências da Computação pela UFS, atualmente curso o Doutorado na Universidade Tiradentes. <br />
+                    Meu nome é Fabio Gomes Rocha, sou Professor Adjunto 1 na Universidade Tiradentes e líder do Grupo de Pesquisa Interdisciplinar em Tecnologia da Informação e Comunicação. Atuo nos cursos de Ciências da Computação, Sistemas de Informação e Sistemas para Internet. Membro da Comissão Especial de Sistemas de Informação da SBC <a href="http://www2.sbc.org.br/ce-si//membros.html"> CESI/SBC </a>. Bacharel em Sistemas de Informação e Mestre em Ciências da Computação pela UFS, atualmente curso o Doutorado na Universidade Tiradentes. <br />
                     Além da minha experiência no ensino e pesquisa, atuei como Analista de Sistemas, Programador e Gestor de TI em empresas de diversos portes.<br />
                     CERTIFICAÇÕES:<br />
                     Scrum Master e Scrum Professional pela Scrum alliance - Certificant ID: 000208024 <br />
